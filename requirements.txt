@@ -4,5 +4,4 @@ numpy
 scikit-learn
 seaborn
 matplotlib
-pickle5
 streamlit
